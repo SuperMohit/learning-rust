@@ -1,8 +1,3 @@
-https://github.com/solana-labs/solana.wiki.git
-
-
-
-
 # Rust Learning Path: Low-Level Semantics Focus
 
 
